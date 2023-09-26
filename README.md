@@ -67,3 +67,12 @@ Lancer le serveur
   npm run web 
 ```
 
+## App Desktop
+
+Ouvrez le projet dans votre IDE python   
+
+Changer les informations de connexion à la base de données dans le fichier :  
+```bash
+  app_desktop/models/model.py
+```
+Lancer l'app dans votre IDE
