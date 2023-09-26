@@ -1,7 +1,25 @@
-
 # ECF_superbowl
 ECF - Bachelor Développeur 22/24 : [Énoncé](https://github.com/walidbouguerra/ECF_superbowl/blob/main/cahier_des_charges.pdf)  
 
+## App Web
+
+Mettre le projet dans votre localhost  
+Changer les informations de connexion à la base de données dans le fichier :  
+```bash
+  app_web/app/models/Model.php
+```
+Changer les informations de connexion pour envoyer des e-mails dans le fichier:  
+```bash
+  app_web/app/models/UserModel.php
+  Dans la fonction sendmail
+```
+
+
+Lancer l'app dans votre nivagteur
+
+```bash
+  localhost/app_web
+```
 ## App mobile
 
 Installer nodejs
