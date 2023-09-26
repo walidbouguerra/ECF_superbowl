@@ -20,7 +20,7 @@ Lancer l'app dans votre nivagteur
 ```bash
   localhost/app_web
 ```
-## App mobile
+## App Mobile
 
 Installer nodejs
 
