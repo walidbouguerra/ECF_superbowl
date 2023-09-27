@@ -4,6 +4,7 @@ ECF - Bachelor Développeur 22/24 : [Énoncé](https://github.com/walidbouguerra
 ## Documents du projet
 [Manuel d'utilisation](https://github.com/walidbouguerra/ECF_superbowl/blob/main/documents/manuel_utilisation.pdf)  
 [Maquettes](https://github.com/walidbouguerra/ECF_superbowl/blob/main/documents/maquettes.pdf)  
+[Documentation technique](https://github.com/walidbouguerra/ECF_superbowl/blob/main/documents/documentation_technique.pdf)  
 
 ### Gestion de projet
 Kanban réalisé avec Trello  
