@@ -7,6 +7,7 @@ ECF - Bachelor Développeur 22/24 : [Énoncé](https://github.com/walidbouguerra
 
 ### Gestion de projet
 J'ai analysé le [cahier des charges](https://github.com/walidbouguerra/ECF_superbowl/blob/main/documents/cahier_des_charges.pdf), à partir de celui-ci j'ai créé un [kanban](https://github.com/walidbouguerra/ECF_superbowl/blob/main/documents/kanban.PNG) pour gérer mon projet, avant de me lancer dans le développement j'ai commencé à modéliser mon application avec des [maquettes](https://github.com/walidbouguerra/ECF_superbowl/blob/main/documents/maquettes.pdf)  et un [diagramme d'utilisation](https://github.com/walidbouguerra/ECF_superbowl/blob/main/documents/diagramme_utilisation.pdf).    
+
 [Lien du kanban Trello](https://trello.com/invite/b/Nkz4Af41/ATTI5d14aec00a804ecbbf9785b14dd385ffFEC99A69/ecfsuperbowl)
 
 ### Base de données 
