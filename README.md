@@ -2,7 +2,8 @@
 ECF - Bachelor Développeur 22/24 : [Énoncé](https://github.com/walidbouguerra/ECF_superbowl/blob/main/documents/cahier_des_charges.pdf) 
 
 ## Documents du projet
-[Manuel d'utilisation](https://github.com/walidbouguerra/ECF_superbowl/blob/main/documents/manuel_utilisation.pdf)
+[Manuel d'utilisation](https://github.com/walidbouguerra/ECF_superbowl/blob/main/documents/manuel_utilisation.pdf)  
+[Maquettes](https://github.com/walidbouguerra/ECF_superbowl/blob/main/documents/maquettes.pdf)
 
 ### Base de données
 Créer la base de données :    
