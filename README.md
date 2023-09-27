@@ -5,8 +5,7 @@ ECF - Bachelor Développeur 22/24 : [Énoncé](https://github.com/walidbouguerra
 [Manuel d'utilisation](https://github.com/walidbouguerra/ECF_superbowl/blob/main/documents/manuel_utilisation.pdf)  
 [Maquettes](https://github.com/walidbouguerra/ECF_superbowl/blob/main/documents/maquettes.pdf)
 
-### Base de données
-Créer la base de données :    
+### Base de données 
 [Database](https://github.com/walidbouguerra/ECF_superbowl/blob/main/documents/database.sql)  
 [MCD](https://github.com/walidbouguerra/ECF_superbowl/blob/main/documents/database.sql)
 
