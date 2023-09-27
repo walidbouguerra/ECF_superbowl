@@ -3,10 +3,8 @@ ECF - Bachelor Développeur 22/24 : [Énoncé](https://github.com/walidbouguerra
 
 ## Base de données
 Créer la base de données
-```bash
-(https://github.com/walidbouguerra/ECF_superbowl/blob/main/database.sql)  
-[Énoncé](https://github.com/walidbouguerra/ECF_superbowl/blob/main/cahier_des_charges.pdf)
-```
+[database](https://github.com/walidbouguerra/ECF_superbowl/blob/main/database.sql)
+[MCD](https://github.com/walidbouguerra/ECF_superbowl/blob/main/database.sql)
 
 ## App Web
 
